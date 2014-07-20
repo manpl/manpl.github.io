@@ -23,7 +23,6 @@ In `_config.yml` remember to specify your own data:
       twitter : username
 
 -->    
-## Sample Posts
 
 <ul class="posts">
   {% for post in site.posts %}
