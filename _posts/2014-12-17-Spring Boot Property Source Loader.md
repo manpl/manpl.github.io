@@ -6,4 +6,6 @@ tags : [spring]
 ---
 {% include JB/setup %}
 
+![propertySourceLoader.png]({{ site.url }}/assets/images/propertySourceLoader.png)
+
 <script src="https://gist.github.com/manpl/6a829b1ad882eae514ba.js"></script>
