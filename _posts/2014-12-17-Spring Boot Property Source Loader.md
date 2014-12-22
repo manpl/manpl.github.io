@@ -75,7 +75,7 @@ public class EncryptedPropertySourceLoader implements PropertySourceLoader, Prio
 {% endhighlight %}
 
 
-``` java
+```java
     
 package hello;
 
