@@ -8,7 +8,7 @@ tags : [spring]
 
 
 
-``` java
+    ``` java
     
 package hello;
 
@@ -71,4 +71,4 @@ public class EncryptedPropertySourceLoader implements PropertySourceLoader, Prio
         return HIGHEST_PRECEDENCE;
     }
 }
-```
+    ```
