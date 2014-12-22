@@ -7,9 +7,7 @@ tags : [spring]
 {% include JB/setup %}
 
 
-
-    ``` java
-    
+``` java
 package hello;
 
 import org.springframework.boot.env.PropertySourceLoader;
@@ -71,4 +69,4 @@ public class EncryptedPropertySourceLoader implements PropertySourceLoader, Prio
         return HIGHEST_PRECEDENCE;
     }
 }
-    ```
+```
